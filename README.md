@@ -22,6 +22,7 @@ This repository tracks my progress through the MIT 6.0002 course. It includes pr
 |-------------|-------------|------|
 | Problem Set I | Optimization: Greedy vs Brute Force | [View](https://github.com/tera90223/cow-transport-algorithms.git)|
 | Problem Set II | Graph Search & Recursion | [View](https://github.com/tera90223/mit-map.git) |
+| Problem Set III | Random Walk Simulation with OOP and Abstract Classes | [View](https://github.com/tera90223/random-walk-roomba-simulation.git)
 
 ---
 
