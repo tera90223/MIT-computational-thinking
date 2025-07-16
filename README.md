@@ -28,7 +28,7 @@ This repository tracks my progress through the MIT 6.0002 course. It includes pr
 
 ## 🚧 In Progress
 - MIT 6.0002 custom final challenge project *(ETA: end of July 2025)*
-- Problem Sets III–V
+- Problem Sets IV–V
 
 ---
 
