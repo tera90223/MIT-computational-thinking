@@ -27,11 +27,15 @@ This repository tracks my progress through the MIT 6.0002 course. It includes pr
 ---
 
 ## 🚧 In Progress
-- MIT 6.0002 custom final challenge project *(ETA: end of July 2025)*
+- MIT 6.0002 custom final challenge project *(ETA: Q1 2026)*
 - Problem Sets IV–V
 
 ---
 
+## 🎓 About MIT 6.0002
+[Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+
+Part of MIT OpenCourseWare - applies computational thinking to real-world problem solving through optimization algorithms, stochastic modeling, and Monte Carlo simulations. 
+
 ## 🗺️ Why This Course?
 This course sharpens my computational thinking skills to support work in therapeutic target discovery, cancer data analysis, and building intelligent bioinformatics pipelines.
-
